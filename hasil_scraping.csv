@@ -1,0 +1,256 @@
+Tittle,Year Release,Duration(minutes),IMDB Score,Metascore,Genre 1,Genre 2,Genre 3,Gross($M)
+The Shawshank Redemption,1994,142,9.3,80,Drama,NA,NA,28.34
+The Dark Knight,2008,152,9.0,84,Action,Crime,Drama,534.86
+Inception,2010,148,8.8,74,Action,Adventure,Sci-Fi,292.58
+Fight Club,1999,139,8.8,66,Drama,NA,NA,37.03
+Pulp Fiction,1994,154,8.9,94,Crime,Drama,NA,107.93
+Forrest Gump,1994,142,8.8,82,Drama,Romance,NA,330.25
+The Matrix,1999,136,8.7,73,Action,Sci-Fi,NA,171.48
+The Lord of the Rings: The Fellowship of the Ring,2001,178,8.8,92,Action,Adventure,Drama,315.54
+The Lord of the Rings: The Return of the King,2003,201,8.9,94,Action,Adventure,Drama,377.85
+The Godfather,1972,175,9.2,100,Crime,Drama,NA,134.97
+The Dark Knight Rises,2012,164,8.4,78,Action,Adventure,NA,448.14
+Interstellar,2014,169,8.6,74,Adventure,Drama,Sci-Fi,188.02
+The Lord of the Rings: The Two Towers,2002,179,8.7,87,Action,Adventure,Drama,342.55
+Se7en,1995,127,8.6,65,Crime,Drama,Mystery,100.13
+Django Unchained,2012,165,8.4,81,Drama,Western,NA,162.81
+Gladiator,2000,155,8.5,67,Action,Adventure,Drama,187.71
+Batman Begins,2005,140,8.2,70,Action,Adventure,NA,206.85
+The Silence of the Lambs,1991,118,8.6,85,Crime,Drama,Thriller,130.74
+The Avengers,2012,143,8.0,69,Action,Adventure,Sci-Fi,623.28
+Inglourious Basterds,2009,153,8.3,69,Adventure,Drama,War,120.54
+Saving Private Ryan,1998,169,8.6,91,Drama,War,NA,216.54
+Star Wars,1977,121,8.6,90,Action,Adventure,Fantasy,322.74
+Schindler's List,1993,195,8.9,94,Biography,Drama,History,96.90
+The Departed,2006,151,8.5,85,Crime,Drama,Thriller,132.38
+The Prestige,2006,130,8.5,66,Drama,Mystery,Sci-Fi,53.09
+The Wolf of Wall Street,2013,180,8.2,75,Biography,Crime,Drama,116.90
+Star Wars: Episode V - The Empire Strikes Back,1980,124,8.7,82,Action,Adventure,Fantasy,290.48
+The Green Mile,1999,189,8.6,61,Crime,Drama,Fantasy,136.80
+The Godfather: Part II,1974,202,9.0,90,Crime,Drama,NA,57.30
+Shutter Island,2010,138,8.2,63,Mystery,Thriller,NA,128.01
+Memento,2000,113,8.4,80,Mystery,Thriller,NA,25.54
+Avatar,2009,162,7.8,83,Action,Adventure,Fantasy,760.51
+American Beauty,1999,122,8.3,84,Drama,NA,NA,130.10
+Back to the Future,1985,116,8.5,87,Adventure,Comedy,Sci-Fi,210.61
+Titanic,1997,194,7.8,75,Drama,Romance,NA,659.33
+Guardians of the Galaxy,2014,121,8.0,76,Action,Adventure,Comedy,333.18
+American History X,1998,119,8.5,62,Drama,NA,NA,6.72
+V for Vendetta,2005,132,8.2,62,Action,Drama,Sci-Fi,70.51
+Léon,1994,110,8.5,64,Action,Crime,Drama,19.50
+Pirates of the Caribbean: The Curse of the Black Pearl,2003,143,8.0,63,Action,Adventure,Fantasy,305.41
+Goodfellas,1990,146,8.7,90,Biography,Crime,Drama,46.84
+Kill Bill: Vol. 1,2003,111,8.1,69,Action,Crime,Thriller,70.10
+WALL·E,2008,98,8.4,95,Animation,Adventure,Family,223.81
+Terminator 2: Judgment Day,1991,137,8.5,75,Action,Sci-Fi,NA,204.84
+The Usual Suspects,1995,106,8.5,77,Crime,Mystery,Thriller,23.34
+Braveheart,1995,178,8.3,68,Biography,Drama,History,75.60
+Finding Nemo,2003,100,8.1,90,Animation,Adventure,Comedy,380.84
+Star Wars: Episode VI - Return of the Jedi,1983,131,8.3,58,Action,Adventure,Fantasy,309.13
+The Lion King,1994,88,8.5,88,Animation,Adventure,Drama,422.78
+Iron Man,2008,126,7.9,79,Action,Adventure,Sci-Fi,318.41
+The Truman Show,1998,103,8.1,90,Comedy,Drama,Sci-Fi,125.62
+Up,2009,96,8.2,88,Animation,Adventure,Comedy,293.00
+Reservoir Dogs,1992,99,8.3,79,Crime,Drama,Thriller,2.83
+One Flew Over the Cuckoo's Nest,1975,133,8.7,83,Drama,NA,NA,112.00
+Joker,2019,122,8.5,59,Crime,Drama,Thriller,335.45
+The Sixth Sense,1999,107,8.1,64,Drama,Mystery,Thriller,293.51
+Eternal Sunshine of the Spotless Mind,2004,108,8.3,89,Drama,Romance,Sci-Fi,34.40
+Deadpool,2016,108,8.0,65,Action,Adventure,Comedy,363.07
+The Shining,1980,146,8.4,66,Drama,Horror,NA,44.02
+Toy Story,1995,81,8.3,95,Animation,Adventure,Comedy,191.80
+Raiders of the Lost Ark,1981,115,8.4,85,Action,Adventure,NA,248.16
+Mad Max: Fury Road,2015,120,8.1,90,Action,Adventure,Sci-Fi,154.06
+Jurassic Park,1993,127,8.1,68,Action,Adventure,Sci-Fi,402.45
+Star Wars: Episode VII - The Force Awakens,2015,138,7.9,80,Action,Adventure,Sci-Fi,936.66
+Good Will Hunting,1997,126,8.3,70,Drama,Romance,NA,138.43
+Gone Girl,2014,149,8.1,79,Drama,Mystery,Thriller,167.77
+No Country for Old Men,2007,122,8.1,91,Crime,Drama,Thriller,74.28
+A Beautiful Mind,2001,135,8.2,72,Biography,Drama,NA,170.74
+The Hunger Games,2012,142,7.2,68,Action,Adventure,Sci-Fi,408.01
+Avengers: Infinity War,2018,149,8.4,68,Action,Adventure,Sci-Fi,678.82
+Catch Me If You Can,2002,141,8.1,75,Biography,Crime,Drama,164.62
+"Monsters, Inc.",2001,92,8.0,79,Animation,Adventure,Comedy,289.92
+The Terminator,1984,107,8.0,84,Action,Sci-Fi,NA,38.40
+Slumdog Millionaire,2008,120,8.0,84,Drama,Romance,NA,141.32
+Avengers: Endgame,2019,181,8.4,78,Action,Adventure,Drama,858.37
+Alien,1979,117,8.4,89,Horror,Sci-Fi,NA,78.90
+Die Hard,1988,132,8.2,72,Action,Thriller,NA,83.01
+Snatch,2000,104,8.3,55,Comedy,Crime,NA,30.33
+Gravity,2013,91,7.7,96,Drama,Sci-Fi,Thriller,274.09
+Requiem for a Dream,2000,102,8.3,68,Drama,NA,NA,3.64
+Harry Potter and the Deathly Hallows: Part 2,2011,130,8.1,85,Adventure,Drama,Fantasy,381.01
+The Martian,2015,144,8.0,80,Adventure,Drama,Sci-Fi,228.43
+The Hobbit: An Unexpected Journey,2012,169,7.8,58,Adventure,Fantasy,NA,303.00
+A Clockwork Orange,1971,136,8.3,77,Crime,Drama,Sci-Fi,6.21
+Toy Story 3,2010,103,8.3,92,Animation,Adventure,Comedy,415.00
+The Intouchables,2011,112,8.5,57,Biography,Comedy,Drama,13.18
+Iron Man Three,2013,130,7.2,62,Action,Adventure,Sci-Fi,409.01
+Thor,2011,115,7.0,57,Action,Adventure,Fantasy,181.03
+Sin City,2005,124,8.0,74,Crime,Thriller,NA,74.10
+Donnie Darko,2001,113,8.0,88,Drama,Mystery,Sci-Fi,1.48
+Avengers: Age of Ultron,2015,141,7.3,66,Action,Adventure,Sci-Fi,459.01
+Scarface,1983,170,8.3,65,Crime,Drama,NA,45.60
+Captain America: The First Avenger,2011,124,6.9,66,Action,Adventure,Sci-Fi,176.65
+Captain America: The Winter Soldier,2014,136,7.7,70,Action,Adventure,Sci-Fi,259.77
+300,2006,117,7.6,52,Action,Drama,NA,210.61
+The Big Lebowski,1998,117,8.1,71,Comedy,Crime,Sport,17.50
+Star Wars: Episode I - The Phantom Menace,1999,136,6.5,51,Action,Adventure,Fantasy,474.54
+The Pianist,2002,150,8.5,85,Biography,Drama,Music,32.57
+Taxi Driver,1976,114,8.3,94,Crime,Drama,NA,28.26
+Iron Man 2,2010,124,7.0,57,Action,Adventure,Sci-Fi,312.43
+Gran Torino,2008,116,8.1,72,Drama,NA,NA,148.10
+The Hangover,2009,100,7.7,73,Comedy,NA,NA,277.32
+Whiplash,2014,106,8.5,88,Drama,Music,NA,13.09
+Star Wars: Episode III - Revenge of the Sith,2005,140,7.5,68,Action,Adventure,Fantasy,380.26
+The Grand Budapest Hotel,2014,99,8.1,88,Adventure,Comedy,Crime,59.10
+Amélie,2001,122,8.3,69,Comedy,Romance,NA,33.23
+The Revenant,2015,156,8.0,76,Action,Adventure,Drama,183.64
+Black Swan,2010,108,8.0,79,Drama,Thriller,NA,106.95
+Cidade de Deus,2002,130,8.6,79,Crime,Drama,NA,7.56
+Blade Runner,1982,117,8.1,84,Action,Sci-Fi,Thriller,32.87
+Indiana Jones and the Last Crusade,1989,127,8.2,65,Action,Adventure,NA,197.17
+Man of Steel,2013,143,7.0,55,Action,Adventure,Sci-Fi,291.05
+Spider-Man,2002,121,7.3,73,Action,Adventure,Sci-Fi,403.71
+"Il buono, il brutto, il cattivo",1966,161,8.8,90,Western,NA,NA,6.10
+I Am Legend,2007,101,7.2,65,Action,Adventure,Drama,256.39
+12 Angry Men,1957,96,9.0,96,Crime,Drama,NA,4.36
+The Imitation Game,2014,114,8.0,73,Biography,Drama,Thriller,91.13
+Kill Bill: Vol. 2,2004,137,8.0,83,Action,Crime,Thriller,66.21
+Full Metal Jacket,1987,116,8.3,76,Drama,War,NA,46.36
+How to Train Your Dragon,2010,98,8.1,75,Animation,Action,Adventure,217.58
+Silver Linings Playbook,2012,122,7.7,81,Comedy,Drama,Romance,132.09
+X-Men: Days of Future Past,2014,132,7.9,75,Action,Adventure,Sci-Fi,233.92
+Captain America: Civil War,2016,147,7.8,75,Action,Adventure,Sci-Fi,408.08
+The Incredibles,2004,115,8.0,90,Animation,Action,Adventure,261.44
+Pirates of the Caribbean: Dead Man's Chest,2006,151,7.3,53,Action,Adventure,Fantasy,423.32
+Aliens,1986,137,8.3,84,Action,Adventure,Sci-Fi,85.16
+Harry Potter and the Sorcerer's Stone,2001,152,7.6,64,Adventure,Family,Fantasy,317.58
+X: First Class,2011,131,7.7,65,Action,Adventure,Sci-Fi,146.41
+Sen to Chihiro no kamikakushi,2001,125,8.6,96,Animation,Adventure,Family,10.06
+Logan,2017,137,8.1,77,Action,Drama,Sci-Fi,226.28
+District 9,2009,112,7.9,81,Action,Sci-Fi,Thriller,115.65
+The King's Speech,2010,118,8.0,88,Biography,Drama,History,138.80
+Star Wars: Episode II - Attack of the Clones,2002,142,6.5,54,Action,Adventure,Fantasy,310.68
+Ratatouille,2007,111,8.0,96,Animation,Adventure,Comedy,206.45
+12 Years a Slave,2013,134,8.1,96,Biography,Drama,History,56.67
+Million Dollar Baby,2004,132,8.1,86,Drama,Sport,NA,100.49
+Trainspotting,1996,93,8.1,83,Drama,NA,NA,16.50
+Skyfall,2012,143,7.7,81,Action,Adventure,Thriller,304.36
+Batman v Superman: Dawn of Justice,2016,152,6.4,44,Action,Adventure,Sci-Fi,330.36
+The Social Network,2010,120,7.7,95,Biography,Drama,NA,96.96
+Black Panther,2018,134,7.3,88,Action,Adventure,Sci-Fi,700.06
+La vita è bella,1997,116,8.6,59,Comedy,Drama,Romance,57.60
+Pan's Labyrinth,2006,118,8.2,98,Drama,Fantasy,War,37.63
+Fargo,1996,98,8.1,85,Crime,Drama,Thriller,24.61
+The Hunger Games: Catching Fire,2013,146,7.5,76,Action,Adventure,Mystery,424.67
+Shrek,2001,90,7.8,84,Animation,Adventure,Comedy,267.67
+Inside Out,I 2015,95,8.1,94,Animation,Adventure,Comedy,356.46
+The Bourne Ultimatum,2007,115,8.0,85,Action,Mystery,Thriller,227.47
+Apocalypse Now,1979,147,8.4,94,Drama,Mystery,War,83.47
+Psycho,1960,109,8.5,97,Horror,Mystery,Thriller,32.00
+2001: A Space Odyssey,1968,149,8.3,84,Adventure,Sci-Fi,NA,56.95
+World War Z,2013,116,7.0,63,Action,Adventure,Horror,202.36
+The Hobbit: The Desolation of Smaug,2013,161,7.8,66,Adventure,Fantasy,NA,258.37
+Suicide Squad,2016,123,6.0,40,Action,Adventure,Fantasy,325.10
+Edge of Tomorrow,2014,113,7.9,71,Action,Adventure,Sci-Fi,100.21
+Transformers,2007,144,7.0,61,Action,Adventure,Sci-Fi,319.25
+Prisoners,2013,153,8.1,70,Crime,Drama,Mystery,61.00
+Now You See Me,I 2013,115,7.3,50,Crime,Mystery,Thriller,117.72
+Pirates of the Caribbean: At World's End,2007,169,7.1,50,Action,Adventure,Fantasy,309.42
+Doctor Strange,2016,115,7.5,72,Action,Adventure,Fantasy,232.64
+Thor: The Dark World,2013,112,6.9,54,Action,Adventure,Fantasy,206.36
+Arrival,II 2016,116,7.9,81,Drama,Sci-Fi,NA,100.55
+Kingsman: The Secret Service,2014,129,7.7,60,Action,Adventure,Comedy,128.26
+The Curious Case of Benjamin Button,2008,166,7.8,70,Drama,Fantasy,Romance,127.51
+Sherlock Holmes,2009,128,7.6,57,Action,Adventure,Mystery,209.03
+Casino Royale,2006,144,8.0,80,Action,Adventure,Thriller,167.45
+Thor: Ragnarok,2017,130,7.9,74,Action,Adventure,Comedy,315.06
+Life of Pi,2012,127,7.9,79,Adventure,Drama,Fantasy,124.99
+Jurassic World,2015,124,7.0,59,Action,Adventure,Sci-Fi,652.27
+Star Trek,2009,127,7.9,82,Action,Adventure,Sci-Fi,257.73
+Birdman or (The Unexpected Virtue of Ignorance),2014,119,7.7,87,Comedy,Drama,NA,42.34
+Groundhog Day,1993,101,8.0,72,Comedy,Fantasy,Romance,70.91
+Twelve Monkeys,1995,129,8.0,74,Mystery,Sci-Fi,Thriller,57.14
+Heat,1995,170,8.2,76,Crime,Drama,Thriller,67.44
+Argo,2012,120,7.7,86,Biography,Drama,Thriller,136.03
+Into the Wild,2007,148,8.1,73,Adventure,Biography,Drama,18.35
+Frozen,I 2013,102,7.4,75,Animation,Adventure,Comedy,400.74
+X-Men,2000,104,7.4,64,Action,Adventure,Sci-Fi,157.30
+Ted,2012,106,6.9,62,Comedy,NA,NA,218.82
+Drive,I 2011,100,7.8,78,Crime,Drama,NA,35.06
+Prometheus,I 2012,124,7.0,64,Adventure,Mystery,Sci-Fi,126.48
+Ant-Man,2015,117,7.3,64,Action,Adventure,Comedy,180.20
+Taken,I 2008,90,7.8,51,Action,Thriller,NA,145.00
+Guardians of the Galaxy Vol. 2,2017,136,7.6,67,Action,Adventure,Comedy,389.81
+Star Wars: Episode VIII - The Last Jedi,2017,152,7.0,84,Action,Adventure,Fantasy,620.18
+The Amazing Spider-Man,2012,136,6.9,66,Action,Adventure,Sci-Fi,262.03
+Rogue One,2016,133,7.8,65,Action,Adventure,Sci-Fi,532.18
+Harry Potter and the Chamber of Secrets,2002,161,7.4,63,Adventure,Family,Fantasy,261.99
+Dunkirk,2017,106,7.9,94,Action,Drama,History,188.37
+Harry Potter and the Prisoner of Azkaban,2004,142,7.9,82,Adventure,Family,Fantasy,249.36
+Wonder Woman,2017,141,7.4,76,Action,Adventure,Fantasy,412.56
+Harry Potter and the Goblet of Fire,2005,157,7.7,81,Adventure,Family,Fantasy,290.01
+Jaws,1975,124,8.0,87,Adventure,Thriller,NA,260.00
+Spider-Man 2,2004,127,7.3,83,Action,Adventure,Sci-Fi,373.59
+Once Upon a Time... in Hollywood,2019,161,7.6,83,Comedy,Drama,NA,142.50
+Her,2013,126,8.0,90,Drama,Romance,Sci-Fi,25.57
+Looper,2012,113,7.4,84,Action,Drama,Sci-Fi,66.49
+"Lock, Stock and Two Smoking Barrels",1998,107,8.2,66,Action,Comedy,Crime,3.90
+John Wick,2014,101,7.4,68,Action,Crime,Thriller,43.04
+L.A. Confidential,1997,138,8.2,90,Crime,Drama,Mystery,64.62
+Independence Day,1996,145,7.0,59,Action,Adventure,Sci-Fi,306.17
+Limitless,I 2011,105,7.4,59,Sci-Fi,Thriller,NA,79.25
+Toy Story 2,1999,92,7.9,88,Animation,Adventure,Comedy,245.85
+Kick-Ass,2010,117,7.6,66,Action,Comedy,Crime,48.07
+Cast Away,2000,143,7.8,73,Adventure,Drama,Romance,233.63
+Gisaengchung,2019,132,8.6,96,Comedy,Drama,Thriller,53.37
+Casablanca,1942,102,8.5,100,Drama,Romance,War,1.02
+Superbad,2007,113,7.6,76,Comedy,NA,NA,121.46
+Zombieland,2009,88,7.6,73,Adventure,Comedy,Fantasy,75.59
+The Notebook,2004,123,7.8,53,Drama,Romance,NA,81.00
+Rocky,1976,120,8.1,70,Drama,Sport,NA,117.24
+Men in Black,1997,98,7.3,71,Action,Adventure,Comedy,250.69
+Ocean's Eleven,2001,116,7.7,74,Crime,Thriller,NA,183.42
+The Matrix Reloaded,2003,138,7.2,62,Action,Sci-Fi,NA,281.49
+There Will Be Blood,2007,158,8.2,93,Drama,NA,NA,40.22
+Oldeuboi,2003,120,8.4,77,Action,Drama,Mystery,0.71
+The Hateful Eight,2015,168,7.8,68,Crime,Drama,Mystery,54.12
+X2,2003,134,7.4,68,Action,Adventure,Sci-Fi,214.95
+Shaun of the Dead,2004,99,7.9,76,Comedy,Horror,NA,13.54
+21 Jump Street,2012,109,7.2,69,Action,Comedy,Crime,138.45
+The Bourne Identity,2002,119,7.9,68,Action,Mystery,Thriller,121.66
+Minority Report,2002,145,7.6,80,Action,Crime,Mystery,132.07
+Spider-Man: Homecoming,2017,133,7.4,73,Action,Adventure,Sci-Fi,334.20
+Harry Potter and the Order of the Phoenix,2007,138,7.5,71,Action,Adventure,Family,292.00
+La La Land,2016,128,8.0,94,Comedy,Drama,Music,151.10
+Watchmen,2009,162,7.6,56,Action,Drama,Mystery,107.51
+Monty Python and the Holy Grail,1975,91,8.2,91,Adventure,Comedy,Fantasy,1.23
+Despicable Me,2010,95,7.6,72,Animation,Comedy,Crime,251.51
+"I, Robot",2004,115,7.1,59,Action,Drama,Sci-Fi,144.80
+Spider-Man 3,2007,139,6.2,59,Action,Adventure,Sci-Fi,336.53
+Blood Diamond,2006,143,8.0,64,Adventure,Drama,Thriller,57.37
+Rise of the Planet of the Apes,2011,105,7.6,68,Action,Drama,Sci-Fi,176.76
+Juno,2007,96,7.4,81,Comedy,Drama,NA,143.50
+Troy,2004,163,7.3,56,Drama,History,NA,133.38
+Get Out,I 2017,104,7.7,85,Horror,Mystery,Thriller,176.04
+American Psycho,2000,101,7.6,64,Comedy,Crime,Drama,15.07
+Oblivion,I 2013,124,7.0,54,Action,Adventure,Sci-Fi,89.02
+Source Code,2011,93,7.5,74,Action,Drama,Mystery,54.71
+X-Men: The Last Stand,2006,104,6.7,58,Action,Adventure,Sci-Fi,234.36
+Pirates of the Caribbean: On Stranger Tides,2011,137,6.6,45,Action,Adventure,Fantasy,241.06
+Back to the Future Part II,1989,108,7.8,57,Adventure,Comedy,Sci-Fi,118.50
+The Great Gatsby,2013,143,7.2,55,Drama,Romance,NA,144.84
+Harry Potter and the Deathly Hallows: Part 1,2010,146,7.7,65,Adventure,Family,Fantasy,295.98
+Deadpool 2,2018,119,7.7,66,Action,Adventure,Comedy,324.59
+The Hobbit: The Battle of the Five Armies,2014,144,7.4,59,Adventure,Fantasy,NA,255.12
+Rain Man,1988,133,8.0,65,Drama,NA,NA,178.80
+Ex Machina,2014,108,7.7,78,Drama,Sci-Fi,Thriller,25.44
+(500) Days of Summer,2009,95,7.7,76,Comedy,Drama,Romance,32.39
+"Crazy, Stupid, Love.",2011,118,7.4,68,Comedy,Drama,Romance,84.35
+Harry Potter and the Half-Blood Prince,2009,153,7.6,78,Action,Adventure,Family,301.96
+X-Men Origins: Wolverine,2009,107,6.6,40,Action,Adventure,Sci-Fi,179.88
+Home Alone,1990,103,7.6,63,Comedy,Family,NA,285.76
+Pacific Rim,2013,131,6.9,65,Action,Adventure,Sci-Fi,101.80
+Children of Men,2006,109,7.9,84,Adventure,Drama,Sci-Fi,35.55
+Star Trek Into Darkness,2013,132,7.7,72,Action,Adventure,Sci-Fi,228.78
