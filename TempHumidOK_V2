@@ -1,0 +1,85 @@
+#define BLYNK_PRINT Serial
+#include <ESP8266_Lib.h>
+#include <BlynkSimpleShieldEsp8266.h>
+
+#include "DHT.h"
+#define DHTTYPE DHT11
+#define DHTPIN 8
+DHT dht(DHTPIN, DHTTYPE);
+
+char auth[] = "CmMv9-KRhbBd20ZEPEVjj_RUqOuF48sX";
+char ssid[] = "SENTANU BATIK";
+char pass[] = "godhongpito7";
+
+const int fanPin = 6;
+
+#include <SoftwareSerial.h>
+SoftwareSerial EspSerial(3, 2); // RX, TX
+
+#define ESP8266_BAUD 9600
+ESP8266 wifi(&EspSerial);
+
+BlynkTimer timer;
+
+int tempAuto = 0;
+int tempLevel = 0;
+int humidVal = 40;
+int tempVal = 32;
+
+BLYNK_WRITE(V2) {
+  switch (param.asInt()) {
+    case 1: digitalWrite(fanPin, 0); tempAuto = 0;
+      break;
+    case 2: digitalWrite(fanPin, 102);tempLevel=102;
+      break;
+    case 3: digitalWrite(fanPin, 255);tempLevel=255;
+      break;
+    case 4: tempAuto = 1;tempLevel=255;
+      break;
+  }
+}
+
+BLYNK_WRITE(V3) {
+  tempVal = param.asInt();
+}
+
+BLYNK_WRITE(V4) {
+  humidVal = param.asInt();
+}
+
+
+void setup() {
+  Serial.begin(9600);
+  EspSerial.begin(ESP8266_BAUD);
+  delay(10);
+  Blynk.begin(auth, wifi, ssid, pass, "blynk-cloud.com", 8080);
+
+  pinMode(fanPin, OUTPUT);
+
+  dht.begin();
+}
+
+void loop() {
+  Blynk.run();
+
+  float h = dht.readHumidity();
+  float t = dht.readTemperature();
+  Blynk.virtualWrite(V3, tempVal);
+  Blynk.virtualWrite(V4, humidVal);
+  if (isnan(h) || isnan(t) ) {
+    Serial.println(F("Failed to read from DHT sensor!"));
+    return;
+  } else {
+    Blynk.virtualWrite(V0, t);
+    Blynk.virtualWrite(V1, h);
+    //automatic
+    if (tempAuto == 1)
+      if ((h < humidVal || t > tempVal)) {
+        digitalWrite(fanPin, tempLevel);
+      } else {
+        digitalWrite(fanPin, 0);
+      }
+  }
+  delay(2000);
+  timer.run();
+}
