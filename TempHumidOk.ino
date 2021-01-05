@@ -97,6 +97,8 @@ void loop() {
     if (tempAuto == 1)
       if (h < humidVal || t > tempVal) {
         digitalWrite(fanPin, 255);
+      } else {
+        digitalWrite(fanPin, 0);
       }
   }
 
