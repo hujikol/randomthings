@@ -13,10 +13,7 @@ char ssid[] = "SENTANU BATIK";
 char pass[] = "godhongpito7";
 String HOST = "192.168.1.2";
 String PORT = "8080";
-int countTrueCommand;
-int countTimeCommand;
-boolean found = false;
-int valSensor = 1;
+
 const int fanPin = 6;
 
 #include <SoftwareSerial.h>
@@ -105,17 +102,4 @@ void loop() {
 
   delay(2000);
   timer.run();
-}
-
-String getTemperature() {
-  int temp = dht.readTemperature();
-  delay(50);
-  return String(temp);
-}
-
-String getHumidity() {
-  int humidity = dht.readHumidity();
-  delay(50);
-  return String(humidity);
-
 }
