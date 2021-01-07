@@ -11,8 +11,6 @@ DHT dht(DHTPIN, DHTTYPE);
 char auth[] = "CmMv9-KRhbBd20ZEPEVjj_RUqOuF48sX";
 char ssid[] = "SENTANU BATIK";
 char pass[] = "godhongpito7";
-String HOST = "192.168.1.2";
-String PORT = "8080";
 
 const int fanPin = 6;
 
@@ -24,17 +22,10 @@ ESP8266 wifi(&EspSerial);
 
 BlynkTimer timer;
 
-// This function sends Arduino's up time every second to Virtual Pin (5).
-// In the app, Widget's reading frequency should be set to PUSH. This means
-// that you define how often to send data to Blynk App.
-void myTimerEvent() {
-  // You can send any value at any time.
-  // Please don't send more that 10 values per second.
-  Blynk.virtualWrite(V5, millis() / 1000);
-}
 int tempAuto = 0;
 int humidVal = 40;
 int tempVal = 32;
+
 BLYNK_WRITE(V1) {
   switch (param.asInt()) {
     case 1: digitalWrite(fanPin, 0); tempAuto=0;
